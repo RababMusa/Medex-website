@@ -1,0 +1,128 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:29LTBukra-Bold
+FamilyName:29LT Bukra
+StyleName:Bold
+MenuName:29LT Bukra Bold
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:29LT Bukra Bold
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Arabic
+OutlineFileName:/Users/4good/Movies/Wondershare Filmora X/Output/MEDEX-WEBSITE-2022 Folder/Document fonts/29ltbukrabold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:177924
+FileModTime:603359602
+NameArray:0,Mac,18,29LT Bukra Bold
+NameArray:0,Mac,4,29LT Bukra Bold
+NameArray:0,Win,1,29LT Bukra Bold
+NameArray:0,Win,16,29LT Bukra
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:29LTBukra-Regular
+FamilyName:29LT Bukra
+StyleName:Regular
+MenuName:29LT Bukra Regular
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:29LT Bukra Regular
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Arabic
+OutlineFileName:/Users/4good/Movies/Wondershare Filmora X/Output/MEDEX-WEBSITE-2022 Folder/Document fonts/29ltbukraregular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:183980
+FileModTime:603359602
+NameArray:0,Mac,18,29LT Bukra Regular
+NameArray:0,Mac,4,29LT Bukra Regular
+NameArray:0,Win,1,29LT Bukra Regular
+NameArray:0,Win,16,29LT Bukra
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeArabic-Regular
+FamilyName:Adobe Arabic
+StyleName:Regular
+MenuName:Adobe Arabic
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Adobe Arabic Regular
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Arabic
+OutlineFileName:/Users/4good/Movies/Wondershare Filmora X/Output/MEDEX-WEBSITE-2022 Folder/Document fonts/AdobeArabic-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:300140
+FileModTime:350990012
+NameArray:0,Mac,18,Adobe Arabic
+NameArray:0,Mac,4,Adobe Arabic Regular
+NameArray:0,Win,1,Adobe Arabic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/4good/Movies/Wondershare Filmora X/Output/MEDEX-WEBSITE-2022 Folder/Document fonts/AdobeFnt23.lst
+FileLength:2789
+FileModTime:690378670
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:29LTBukraAlt-Bold
+FamilyName:29LT Bukra Alt
+StyleName:Bold
+MenuName:29LT Bukra Alt
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:29LT Bukra Alt Bold
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Arabic
+OutlineFileName:/Users/4good/Movies/Wondershare Filmora X/Output/MEDEX-WEBSITE-2022 Folder/Document fonts/BukraAlt_Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:67548
+FileModTime:382389906
+NameArray:0,Mac,4,29LT Bukra Alt Bold
+NameArray:0,Win,1,29LT Bukra Alt
+%EndFont
+
